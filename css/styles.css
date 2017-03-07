@@ -110,10 +110,8 @@ body {
 }
 
 .bcircle {
-  width: 70px;
-  height: 70px;
-  font-size: 24px;
-  border-radius: 35px;
+  width: 20%;
+  height: 8%;
   background-color: #31c63b;
   color: #ffffff;
 }
